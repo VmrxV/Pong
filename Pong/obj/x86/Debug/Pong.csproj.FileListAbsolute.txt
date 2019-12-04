@@ -1,0 +1,42 @@
+D:\Visual Studio proj\Pong\bin\Debug\Pong.exe
+D:\Visual Studio proj\Pong\bin\Debug\Pong.pdb
+D:\Visual Studio proj\Pong\obj\x86\Debug\Pong.Form1.resources
+D:\Visual Studio proj\Pong\obj\x86\Debug\Pong.Properties.Resources.resources
+D:\Visual Studio proj\Pong\obj\x86\Debug\Pong.csproj.GenerateResource.Cache
+D:\Visual Studio proj\Pong\obj\x86\Debug\Pong.exe
+D:\Visual Studio proj\Pong\obj\x86\Debug\Pong.pdb
+D:\Visual Studio proj\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.exe
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.pdb
+F:\Dev\Cyberforum\Pong\bin\Debug\Pong.exe
+F:\Dev\Cyberforum\Pong\bin\Debug\Pong.pdb
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.Form1.resources
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.Properties.Resources.resources
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.csproj.GenerateResource.Cache
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.MainForm.resources
+F:\Dev\Cyberforum\Pong\obj\x86\Debug\Pong.PongControl.resources
+H:\пп\Pong\bin\Debug\Pong.exe
+H:\пп\Pong\bin\Debug\Pong.pdb
+H:\пп\Pong\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+H:\пп\Pong\obj\x86\Debug\Pong.Form1.resources
+H:\пп\Pong\obj\x86\Debug\Pong.MainForm.resources
+H:\пп\Pong\obj\x86\Debug\Pong.PongControl.resources
+H:\пп\Pong\obj\x86\Debug\Pong.Properties.Resources.resources
+H:\пп\Pong\obj\x86\Debug\Pong.csproj.GenerateResource.cache
+H:\пп\Pong\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+H:\пп\Pong\obj\x86\Debug\Pong.exe
+H:\пп\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.Form1.resources
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.MainForm.resources
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.PongControl.resources
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.Properties.Resources.resources
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.Hello.resources
+C:\Users\ОЛЕГ\Desktop\Pong\Pong\obj\x86\Debug\Pong.HelloMy.resources
